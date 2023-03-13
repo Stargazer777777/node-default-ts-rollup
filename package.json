@@ -6,7 +6,8 @@
     "rollup": "rollup",
     "watch": "rollup -w -c",
     "build": "rollup -c",
-    "launch": "node ./dist/main.js"
+    "launch": "node ./dist/main.js",
+    "start":"rollup -c && node ./dist/main.js"
   },
   "keywords": [],
   "author": "",
