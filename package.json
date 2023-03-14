@@ -2,6 +2,7 @@
   "name": "ts-test",
   "version": "1.0.0",
   "description": "",
+  "main": "main.ts",
   "scripts": {
     "rollup": "rollup",
     "watch": "rollup -w -c",
