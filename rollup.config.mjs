@@ -27,5 +27,5 @@ export default defineConfig({
       watch: true, // default: false
   })
   ],
-  caches:true,
+  cache:true,
 });
